@@ -1,0 +1,23 @@
+/*CSS Document*/
+
+
+#container{
+	width: 660px;
+	background-color: #ccc;
+	border-radius: 10px;
+}
+
+#content,#sidebar{
+	float:left;
+	margin: 10px;
+	background-color: #23A38F;
+	border-radius: 10px;
+}
+
+#content{
+	width:420px;
+}
+
+#sidebar{
+	width:200px;
+}
