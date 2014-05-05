@@ -1,23 +1,24 @@
 /*CSS Document*/
 
+/* child width/parent width = % width x 100 */
 
 #container{
-	width: 660px;
+	max-width: 660px;
 	background-color: #ccc;
 	border-radius: 10px;
 }
 
 #content,#sidebar{
 	float:left;
-	margin: 10px;
+	margin: 1.515151%;
 	background-color: #23A38F;
 	border-radius: 10px;
 }
 
 #content{
-	width:420px;
+	width: 63.636363%;
 }
 
 #sidebar{
-	width:200px;
+	width: 30.303030%;
 }
